@@ -90,8 +90,6 @@ const getData = async () => {
     }
   }
 }
-    
-    
     `,
       variables: {
         pagination: {
